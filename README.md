@@ -159,9 +159,8 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](L
 
 ## **Contato**
 
-- **Nome:** [Seu Nome]
-- **Email:** [seu-email@example.com]
-- **GitHub:** [https://github.com/seu-usuario]
+- **Nome:** Gabriel Silva Oliveira
+- **Email:** silvatdb8@gmail.com
 
 ---
 
